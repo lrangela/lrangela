@@ -21,8 +21,7 @@
 Soy un desarrollador web radicado en Arequipa, Perú, con una fuerte vocación por el frontend y la creación de interfaces de usuario modernas, escalables y eficientes. 
 
 * 💻 **Mi enfoque principal:** Especializado en el ecosistema <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="18" height="18" style="vertical-align: sub;"> **Angular** y la programación fuertemente tipada con <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="18" height="18" style="vertical-align: sub;"> **TypeScript**. Disfruto construyendo aplicaciones robustas y tengo una marcada preferencia por el diseño e implementación de componentes utilizando **Angular Material** para lograr experiencias de usuario limpias y profesionales.
-* 🛠️ **Mi entorno de trabajo:** Mi flujo de código diario está optimizado utilizando **Antigravity IDE**, lo que me permite mantener un alto nivel de productividad y enfoque.
-* 🎓 **Próximos pasos:** Me encuentro en proceso de planificación para iniciar una maestría en la **UNSA**, evaluando especializaciones entre Ciencias de la Computación y Gestión de TI para llevar mis habilidades arquitectónicas y de liderazgo técnico al siguiente nivel.
+* 🛠️ **Mi entorno de trabajo:** Mi flujo de código diario está optimizado utilizando **Antigravity IDE**, lo que me permite mantener un alto nivel de productividad y enfoque..
 * ⚡ **Intereses adicionales:** Más allá del código, me interesa la exploración de estrategias financieras e inversiones en el ecosistema cripto, y en mi tiempo libre disfruto de los videojuegos de rol y estrategia (ARPGs).
 
 ---
