@@ -52,4 +52,4 @@ Soy un desarrollador web radicado en Arequipa, Perú, con una fuerte vocación p
 Si deseas conversar sobre desarrollo en Angular, oportunidades tecnológicas o simplemente compartir ideas sobre el mundo del software:
 
 - **LinkedIn:** [Luis E. Rangel A.](https://www.linkedin.com/in/luis-e-rangel-a-69691324/)
-- **Ubicación:** Arequipa, Perú 🇵🇪
+- **Ubicación:** Lima, Perú 🇵🇪
