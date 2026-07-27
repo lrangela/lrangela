@@ -4,15 +4,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-e-rangel-a-69691324/)
 [![GitHub GovPortal Live](https://img.shields.io/badge/GovPortal-Live_Demo-007ACC?style=for-the-badge&logo=angular)](https://lrangela.github.io/govportal)
-[![Docker Certified](https://img.shields.io/badge/Docker-Multi--stage_CI/CD-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/lrangela)
+[![TechGear Live](https://img.shields.io/badge/TechGear-Live_Demo-10B981?style=for-the-badge&logo=angular)](https://lrangela.github.io/techgear-inventory-pro)
 
 ---
 
 ## 📊 Engineering Activity & Stack Metrics
 
 <p align="center">
-  <img src="https://github-helpers.creativecode.com.co/api/top-langs?user=lrangela&theme=dark&layout=compact" height="165" alt="Top Languages - Luis Rangel" />
-  <img src="https://github-helpers.creativecode.com.co/api/stats?user=lrangela&theme=dark&show_icons=true" height="165" alt="GitHub Stats - Luis Rangel" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lrangela&layout=compact&theme=dark" height="165" alt="Top Languages - Luis Rangel" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=lrangela&show_icons=true&theme=dark" height="165" alt="GitHub Stats - Luis Rangel" />
 </p>
 
 ---
